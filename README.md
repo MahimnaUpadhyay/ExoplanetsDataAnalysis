@@ -23,7 +23,7 @@ Hey There!! I just started to explore the field of **Data Analysis** and let me 
    
   ![piechart](https://github.com/MahimnaUpadhyay/ExoplanetsDataAnalysis/assets/91863377/35b4a723-3707-4a74-81ab-0821e8461aef)
 
-5. Bar Graph which shows **Detection Method** used to discover **Terrestrial Planets**.
+4. Bar Graph which shows **Detection Method** used to discover **Terrestrial Planets**.
    
   ![barchart1](https://github.com/MahimnaUpadhyay/ExoplanetsDataAnalysis/assets/91863377/f732a469-5a3e-4cbd-8630-0a3af140ede0)
 
